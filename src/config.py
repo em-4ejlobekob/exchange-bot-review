@@ -1,4 +1,4 @@
-TOKEN = '5336869226:AAHZAsppqeDCqAg5sTVL7ufu0-XDZhmnbsU'
+TOKEN = 'TOKEN'
 
 exceptions = ['<tr>', '</tr>', '<th>', '</th>', '<td>', '</td>', '[<table class="data">',
               '<tbody>', 'Цифр. код', 'Букв. код', 'Единиц', 'Валюта', 'Курс', '</tbody>', '</table>]', '\n']
